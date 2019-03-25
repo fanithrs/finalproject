@@ -1,0 +1,50 @@
+.left{
+	margin-top: 40px;
+}
+
+.right{
+	margin-top: 200px;
+}
+
+.col{
+	text-align: center;
+}
+
+
+.home{
+	background-image: url("images/background.gif");	
+}
+
+.about{
+	background-color: #31373f;
+}
+
+.display-4{
+	color: white;
+	text-align: center;
+	
+}
+.gbr{
+	margin-top: 40px;
+}
+
+p{
+	margin-top: 20px;
+	color: white;
+	text-align: center;
+}
+
+h6{
+	color: white;
+	
+}
+
+
+
+
+
+
+
+
+
+
